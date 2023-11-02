@@ -23,7 +23,7 @@ let prefixDirectory = ''
  */
 
 let requiredHost = 'home'
-let repoRoot = 'https://raw.githubusercontent.com/smolgumball/bb-vue'
+let repoRoot = 'https://raw.githubusercontent.com/SK-24Artemis/bb-vue'
 let repoBranch = 'dev'
 let manifestFile = 'installManifest.txt'
 let manifestTmpPath = '/tmp/installManifest__bb-vue.txt'
